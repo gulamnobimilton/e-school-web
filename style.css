@@ -1,0 +1,141 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Navigation Are*/
+
+.first-second-area{
+    background-color: #F0FFF0;
+}
+
+.nav-area img{
+    width: 180px;
+}
+.nav-are{
+    width: 1000px;
+}
+
+.sign-in{
+    background-color: #21B573;
+    border-radius: 33px;
+    margin: 5px 10px;
+    width: 104px;
+    height: 43px;
+    border: none;
+}
+
+
+/* Second Are*/
+
+.second-area{
+    width: 1000px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #F0FFF0;
+
+}
+
+.second-area img{
+    width: 450px;
+}
+
+.any-schedule{
+    color: #21B573;
+}
+
+.Are-you-ready-to-Learn{
+    color: red;
+}
+.lorem-ipsum{
+    color: #6C6B6B;
+}
+
+.get-started{
+    background-color: #21B573;
+    border-radius: 33px;
+    margin: 5px 10px;
+    width: 153px;
+    height: 43px;
+    border: none;
+}
+
+
+
+
+
+/* Third Area*/
+
+.learn-anything{
+    margin-top: 100px;
+}
+
+.card {
+    width: 1000px;
+    height: 250px;
+    align-items: center;
+    text-align: center;
+    border: none;
+    margin-left: 40px;
+
+}
+#shadaw-card{
+    box-shadow: 5px 5px 10px 5px lightgray;
+    background-color: white;
+}
+
+.card img{
+        height: 100px;
+        width: 90px;
+        margin-left: 20px;
+        margin-top: 30px;
+}
+
+.card-title{
+    color: #1B1464;
+}
+.card-text{
+    color: #57606f;
+}
+
+
+
+
+
+/*fourt area*/
+
+.buy-course{
+    background-color: #21B573;
+    border-radius: 33px;
+    margin: 5px 10px;
+    width: 130px;
+    height: 33px;
+    border: none;
+    color: white;
+}
+
+.icon img{
+    width: 25px;
+    height: auto;
+    position: absolute;
+    margin-left: 0;
+
+}
+.icon p{
+
+    position: absolute;
+    margin-left: 30px;
+
+}
+
+.icon-2 img{
+width: 25px;
+height: auto;
+margin-left: 220px;
+position: absolute;
+}
+
+
+.icon-2 p{
+    margin-left: 250px;
+}
